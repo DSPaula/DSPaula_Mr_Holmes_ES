@@ -14,7 +14,7 @@
 
 # :mag: Mr.Holmes 
 
-**Mr.Holmes is a information gathering tool (OSINT). The main purpose is to gain information about domains,username and phone numbers with the help of public source avaiable on the internet also it use the google dorks attack for specific researchers. It also use proxies for make your requests completley anonymous and a WhoIS Api for getting more information about a domain.**
+**Mr_Holmes is a information gathering tool (OSINT). The main purpose is to gain information about domains,username and phone numbers with the help of public source avaiable on the internet also it use the google dorks attack for specific researchers. It also use proxies for make your requests completley anonymous and a WhoIS Api for getting more information about a domain.**
 <br>
 
 # :heavy_exclamation_mark: DISCLAIMER
@@ -34,7 +34,7 @@
 
 # :heavy_check_mark: INSTALLATION LINUX/MAC:
 ```bash
-git clone https://github.com/Lucksi/Mr.Holmes
+git clone https://github.com/DSPaula/DSPaula_Mr_Holmes_ES
 cd Mr.Holmes
 sudo apt-get update
 sudo chmod +x install.sh
@@ -45,7 +45,7 @@ sudo bash install.sh
 # :heavy_check_mark: INSTALLATION LINUX/MAC (Venv Enviroment):
 **if you encounter some errors in the python libraries installation use this method**
 ```bash
-git clone https://github.com/Lucksi/Mr.Holmes
+git clone https://github.com/DSPaula/DSPaula_Mr_Holmes_ES
 sudo apt-get update
 cd Mr.Holmes
 python3 -m venv .lib_venv
@@ -60,7 +60,7 @@ python3 MrHolmes.py
 # :heavy_check_mark: INSTALLATION WINDOWS (1°WAY)
 **If you have git installed on your windows machine you can do the following commands:**
 ```cmd
-git clone https://github.com/Lucksi/Mr.Holmes
+github.com/DSPaula/DSPaula_Mr_Holmes_ES
 cd Mr.Holmes
 Install.cmd
 ```
@@ -78,7 +78,7 @@ Install.cmd
 # :heavy_check_mark: INSTALLATION TERMUX:
 ```bash
 pkg install proot
-git clone https://github.com/Lucksi/Mr.Holmes
+git clone https://github.com/DSPaula/DSPaula_Mr_Holmes_ES
 cd Mr.Holmes
 proot -0 chmod +x install_Termux.sh
 ./install_Termux.sh
@@ -134,7 +134,7 @@ proot -0 chmod +x install_Termux.sh
 
 # VERSIONS LIST:
     https://lucksi.github.io/Mr.Holmes/Pages/versions.html
-<br>
+  <br>
 
 # :heavy_check_mark: GUI DARK/LIGHT MODE:
 ```bash
@@ -204,7 +204,7 @@ edit Language.json
 ```json
 {
     "Language": {
-        "Preference": "English"
+        "Preference": "Spanish"
     }
 }
 ```
@@ -220,11 +220,12 @@ edit Language.json
     Italiano 🇮🇹 
     English 🏴󠁧󠁢󠁥󠁮󠁧󠁿
     Français 🇫🇷
+    Español 🇪🇸
 
 <br>
 
 # ACTUAL VERSION:
-## T.G.D-1.0.4
+## T.G.D-1.0.5
 
 <br>
 
@@ -364,16 +365,16 @@ edit Language.json
 <br>
 
 
-## <p align = center> STARGAZERS OVER TIME 
+## <p align = center> ASISTENTES ASTRÓNICOS A LO LARGO DEL TIEMPO
 
 
 [![Stargazers over time](https://starchart.cc/Lucksi/Mr.Holmes.svg)](https://starchart.cc/Lucksi/Mr.Holmes)
 
 <br>
 
-## <p align= center>MADE WITH :heart: BY LUCKSI IN :it:</p>
-
-## <p align = center>  ORIGINAL CREATOR: <a href = "https://github.com/Lucksi">LUCA GAROFALO (Lucksi)</a></p>
-
+## <p align="center">
+  <strong>Forked and modified by Fernando — 2025</strong><br>
+  Original project by <a href="https://github.com/Lucksi">Lucksi</a>
+</p>
 
 ## <p align = center>LICENSE: GPL-3.0 License <br>COPYRIGHT: (C) 2021-2025 Lucksi
